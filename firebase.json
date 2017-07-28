@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "TharangaManPower",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
